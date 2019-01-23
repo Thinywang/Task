@@ -1,0 +1,7 @@
+{
+     "run_time": "2019-01-20 20:39:00",
+     "kill_time": "2019-01-20 20:40:00",
+     "run_process": "C:\\Program Files\\WinRAR\\WinRAR.exe,F:\\notepad++\\notepad++.exe",
+     "kill_process": "excel.exe,notepad++.exe"
+
+}
