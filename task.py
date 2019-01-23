@@ -39,6 +39,7 @@ def taskkill(kill_process):
     for i  in kill_process:
         os.system("taskkill /F /IM "+i)
         #os.kill(i, signal.SIGABRT)
+#打开程序
 def taskopen(run_process):
     for i in run_process:
         os.startfile(i)
